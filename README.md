@@ -1,5 +1,7 @@
 # Niyojaka – AI-Enabled Gmail Replier
 
+Live Link: https://gmailbot-dun.vercel.app/
+
 Niyojaka is an AI-powered Gmail automation agent that reads your inbox, understands the intent of each email, and drafts or sends context-aware replies automatically.  
 It’s built to save hours of manual effort while maintaining a personalized communication style.
 
